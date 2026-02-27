@@ -1,0 +1,7 @@
+[tool.uv]
+dependencies = [
+    "yfinance",
+    "requests",
+    "pandas",
+    "numpy"
+]
